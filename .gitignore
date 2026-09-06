@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# ML model weights
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output
+output/
+
+# IDE
+.vscode/
+.idea/
